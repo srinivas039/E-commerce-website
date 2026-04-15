@@ -4,7 +4,7 @@
 
 # Config files with secrets
 config.yml
-application.properties
+# application.properties
 
 # Node / frontend
 node_modules/
